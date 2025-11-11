@@ -2,7 +2,7 @@
 
 A browser-based tic-tac-toe game where one plays against an AI opponent trained using [Brain.js](https://brain.js.org/). The game features a clean, interactive user interface and demonstrates the foundations of building and training a simple neural network in JavaScript. The ML was trained using initial data, which was aggregated with every gameplay. This repository contains the most fundemental structure of the AI. The single player mode of the game, as per the menu, has three difficulty levels corresponding to the amount of training the model will have received.
 
-![](https://github.com/msizimkhize/Tic-Tac-Toe-ML-Training-Version-I/blob/main/Outcome%20Tree.png?raw=true)
+![](https://github.com/msizimkhize/Tic-Tac-Toe-ML-Training-Version-I/blob/main/gameplayshots.png?raw=true)
 
 #
 #### Reach Out on LinkedIn
